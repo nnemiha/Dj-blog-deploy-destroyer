@@ -18,7 +18,7 @@ SECRET_KEY = '^2812)w7w=p57a0zu-bl_230gs*60tpbkaokv)efl8o*-zq%s#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = os.getenv('DEBUG', 'False') == 'True'
 
-ALLOWED_HOSTS = ['your-app-name.onrender.com']
+ALLOWED_HOSTS = ['https://dj-blog-deploy-destroyerbrains.onrender.com/']
 
 
 # Application definition
